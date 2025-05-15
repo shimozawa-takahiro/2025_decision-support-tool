@@ -10,4 +10,4 @@ sample.py ･･･ コントローラー
 calc.py ･･･ 最適化計算ファイル  
 node.csv ･･･ ノード情報ファイル  
 edge.csv ･･･ エッジ情報ファイル  
-templateフォルダ中のindex.html ･･･ web上に表示するファイル  
+templatesフォルダ中のindex.html ･･･ web上に表示するファイル  
